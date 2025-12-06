@@ -32,4 +32,7 @@ gradebook_analyzer.py
   
   3 →no results displayed
 
+You can view each student’s marks,their letter grade, the lists of passed and failed students, and the final results table.
+  
+
 
