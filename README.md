@@ -26,8 +26,8 @@ gradebook_analyzer.py
 
 (1 → Enter student marks manually, 2 → Load marks from a CSV file (marks.csv), 3 → Exit the program)
 
-  1 → Enter student marks manually        (displays results after input)
-  2 → Load marks from a CSV file          (displays results after loading)
-  3 → Exit the program (no results        displayed)
+  1 →displays results after input
+  2 →displays results after loading
+  3 →no results displayed
 
 
