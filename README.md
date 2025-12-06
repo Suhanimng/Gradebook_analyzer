@@ -20,7 +20,7 @@ Display a final results table with student names, marks, and grades
 ## Usage 
 1.Run the program:
 
-gradebook_analyzer.py
+gradebook.py
 
 2.Choose data input method:
 
