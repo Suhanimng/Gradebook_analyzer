@@ -1,5 +1,6 @@
-# Gradebook_Analyzer 
+# Gradebook Analyzer
 Author:Suhani
+
 Date:6/12/2025
 
 ## Overview 
@@ -24,5 +25,6 @@ gradebook_analyzer.py
 2.Choose data input method:
 
 (1 → Enter student marks manually, 2 → Load marks from a CSV file (marks.csv), 3 → Exit the program)
+
 
 3. It displays your result.
